@@ -54,7 +54,7 @@ Terminal tab 1:
   npm install styled-components --save-dev
   npm run react-dev
 Terminal tab 2:
-  nodemon ./server/index.js (in new tab)
+  node ./server/index.js (in new tab)
 Terminal tab 3:
   mongod --config /usr/local/etc/mongod.conf
   mongo
