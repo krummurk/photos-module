@@ -1,7 +1,7 @@
 import React from 'react';
 import $ from 'jquery';
 import Modal from './Modal.jsx';
-// import styled from 'styled-components';
+import styled from 'styled-components';
 
 const PhotoContainer = styled.div`
   overflow: hidden;
