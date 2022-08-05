@@ -16,7 +16,7 @@
     "cors": "^2.8.5",
     "faker": "^4.1.0",
     "jquery": "^3.4.1",
-    "mongoose": "^5.5.9",
+    "mongoose": "^5.7.5",
     "react": "^16.8.6",
     "react-dev": "0.0.1",
     "react-dom": "^16.8.6",
